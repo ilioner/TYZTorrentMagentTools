@@ -80,11 +80,11 @@ NSString *trackersList = (NSString *)[[NSUserDefaults standardUserDefaults]objec
 }];
 ```
 
-###4. 关于播放
+### 4. 关于播放
 
 还是觉得VLC好用，获取播放地址后，使用VLC来播放目标地址视频绝对可行（除非下载的不是视频）。
 
-###5. TODO
+### 5. TODO
 
 资源搜索引擎在封装中
 
